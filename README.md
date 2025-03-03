@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @Anshul Gedam
-- 👀 I’m open to connect with Team/individuals who is working in Management Consulting/Management Trainee/Analysts roles.
-- 🌱 I’m currently learning Technology,Marketing,Stratergy and Finance. 
+- 👀 I’m open to connect with Team/individuals who is working on Data Visualizations.
+- 🌱 I’m currently learning Technology,Marketing,Stratergy and Operations. 
 - 📫 You can reach out to me via my email: m24msa006@iitj.ac.in/anshulgedam22@gmail.com
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: Hard working extrovert individual,sedate myself with songs.
 
 <!---
 AnshulGedam22/AnshulGedam22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
