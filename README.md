@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Anshul Gedam
 - 👀 I’m open to connect with Team/individuals who is working on Data Visualizations.
-- 🌱 I’m currently learning Technology,Marketing,Stratergy and Operations. 
+- 🌱 I’m currently learning Marketing,Strategy,Technology and Supply Chain in reverse order :) 
 - 📫 You can reach out to me via my email: m24msa006@iitj.ac.in/anshulgedam22@gmail.com
 - 😄 Pronouns: She/Her
 
