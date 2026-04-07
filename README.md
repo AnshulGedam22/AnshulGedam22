@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Anshul Gedam
-- 👀 I’m open to connect with Team/individuals who is working on Data Visualizations.
-- 🌱 I’m currently learning Marketing,Strategy,Technology and Supply Chain in reverse order :) 
-- 📫 You can reach out to me via my email: m24msa006@iitj.ac.in/anshulgedam22@gmail.com
-- 😄 Pronouns: She/Her
+MBA @ IIT Jodhpur | Ex-RBI & HUL Intern
+BTech ECE @ UIT RGPV Bhopal
+Data Analytics • Supply Chain • Business Intelligence
+
+Driven by data and structured problem-solving, I specialize in turning complex datasets into actionable insights. At RBI, I worked on time-series analysis, credit–growth correlation, and built Power BI dashboards to support policy decisions. At HUL, I applied Lean, DMAIC, and inventory optimization techniques to improve warehouse efficiency and reduce turnaround time.
 
 <!---
 AnshulGedam22/AnshulGedam22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
